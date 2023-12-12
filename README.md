@@ -7,4 +7,8 @@ Desafio 1 : [Refinando um Projeto Conceitual de Banco de Dados – E-COMMERCE](h
 
 Desafio 2 : [Construindo um Esquema Conceitual para Banco de Dados – Ordem de Serviço](https://github.com/hfbricio10/sql-database-especialist/blob/main/modelo-conceitual-ordem-servico-oficina.png)
 
+Desafio 3 : [Construindo o projeto lógico de banco de dados ](https://github.com/hfbricio10/sql-database-especialist/blob/main/diagrama-ecommerce.png 
+)
+
+
 Criado com MySQL Workbench
