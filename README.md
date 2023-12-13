@@ -10,5 +10,7 @@ Desafio 2 : [Construindo um Esquema Conceitual para Banco de Dados – Ordem de 
 Desafio 3 : [Construindo o projeto lógico de banco de dados ](https://github.com/hfbricio10/sql-database-especialist/blob/main/diagrama-ecommerce.png 
 )
 
+Desafio 4 : [Construa um projeto lógico de banco de dados ](https://github.com/hfbricio10/sql-database-especialist/blob/main/desafio-4/diagrama-oficina-4-desafio.png
+)
 
 Criado com MySQL Workbench
