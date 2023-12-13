@@ -28,6 +28,7 @@ create table product(
 
 alter table product auto_increment=1;
 
+-- criar tabela pagamentos 
 create table payments(
 	idclient int,
     idPayment int,
