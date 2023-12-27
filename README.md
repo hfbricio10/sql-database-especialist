@@ -17,5 +17,7 @@ Desafio 5 : [Personalizando o Banco de Dados com Índices e Procedures ](https:/
 
 Desafio 6 : [Personalizando Acessos e Automatizando ações no MySQL](https://github.com/hfbricio10/sql-database-especialist/tree/main/desafio-6)
 
+Desafio 7 : [Criando Transações, Executando Backup e Recovery de Banco de Dados](https://github.com/hfbricio10/sql-database-especialist/tree/main/desafio-7)
+
 
 Criado com MySQL Workbench
